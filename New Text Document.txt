@@ -1,0 +1,33 @@
+SQL:
+For the deployment of Cloud applications, SQL Databases are typically used as relational databases. In addition to high performance analytics,
+ they provide various features for accessing, adding, managing data. It is a database system that is easy to use, contains robust classification features,
+ and offers uncomplicated reliability.
+
+SQL features:
+In general, SQL functions offer many features.
+A SQL operation can easily be implemented using SQL procedural language statements and features,
+which allow you to integrate control flow logic into conventional static and dynamic SQL statements.
+
+A SQL function is usually more reliable than an equivalent external function.
+Provide input parameters.
+Scalar SQL functions return numerical values.
+Provide a powerful but straightforward model for handling conditions and errors.
+
+MongoDB:
+It is an open source NoSQL document database. It is popularly used in conjunction with Amazon Web Services,
+ Azure, and other data sources for application development and ongoing operation.
+In simple terms, MongoDB is a document oriented database. This open source product is developed and supported by 10gen.
+
+MongoDB features:
+There are the following features of MongoDB:
+There are multiple search options in MongoDB, including field, range, and regular expression categories.
+Any area can index documents.
+A load balancing configuration is automatically implemented because the data is split into shards.
+It provides tools for map reduction and aggregation.
+The code is written in JavaScript instead of procedures.
+
+
+
+
+
+
